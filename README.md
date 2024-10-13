@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**nirmalrv8/nirmalrv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Hello! I’m Nirmal**  
+A passionate Software Engineer based in New Zealand, specializing in crafting elegant solutions with **Java**, **C#**, **React**, and **Node.js**. With over 5 years of experience, I thrive on turning complex challenges into streamlined applications.
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**: C# .NET to deepen my skills and enhance my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Backend**: Java, Spring Boot, Node.js, Nest.js, C# .NET
+- **Frontend**: React, Angular, Javascript
+- **Database**: PostgreSQL, MongoDB
+- **Cloud**: AWS Certified
+
+## 🚀 Current Projects
+- **Contact Manager**: A robust app for managing your contacts effortlessly.
+- **Composition Manager**: A dynamic tool for creating and managing compositions with a visually appealing interface using Fabric.js.
+
+## ✨ Fun Fact
+I love exploring new technologies and sharing knowledge through open-source contributions.
+
+📫 **Let’s Connect**: Feel free to reach out or collaborate on exciting projects! [Connect with me on LinkedIn](https://www.linkedin.com/in/nirmal-s-34145680/)
