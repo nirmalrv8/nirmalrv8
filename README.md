@@ -1,9 +1,7 @@
 # About Me
 
 🌍 **Hello! I’m Nirmal**  
-A passionate Software Engineer based in New Zealand, specializing in crafting elegant solutions with **Java**, **C#**, **React**, and **Node.js**. With over 5 years of experience, I thrive on turning complex challenges into streamlined applications.
-
-🌱 **Currently Learning**: C# .NET to deepen my skills and enhance my projects.
+A passionate Software Engineer based in New Zealand, specializing in crafting elegant solutions with **Java**, **Node.js**, **Angular** and **React**. With over 5 years of experience, I thrive on turning complex challenges into streamlined applications.
 
 ## 🔧 Tech Stack
 - **Backend**: Java, Spring Boot, Node.js, Nest.js, C# .NET
